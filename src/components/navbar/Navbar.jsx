@@ -116,7 +116,7 @@ const Navbar = () => {
         <div className=''>
           {
             NavItems.map((item) => {
-              return <a href={item.section} className='text-black dark:text-white p-3 px-5  text-md block'> {item.title} </a>
+              return <a href={item.section} className='text-black p-3 px-5  text-md block'> {item.title} </a>
             })
           }
           <div className='icons flex text-md pt-3 px-5 gap-6 '>
