@@ -29,7 +29,7 @@ function Contact() {
                                 <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
                             </div>
                             <div className='text-[#4d555a] hover:text-[#333333]'>
-                                <a href="github.com/hamza5674"><FaGithub /></a>
+                                <a href="https://github.com/hamza5674"><FaGithub /></a>
                             </div>
                         </div>
                     </div>
