@@ -13,18 +13,18 @@ function Resume() {
                     <div>
                         <h1 className='text-[28px] font-semibold mb-5'>My Education</h1>
                         <div className='border-l-[2px] border-[#f5df4e] ps-4'>
-                            <h1 className='text-[21px] mb-2 font-medium'>Master in Computer Engineering</h1>
-                            <p className='mb-2'>Harvard University / 2015 - 2017</p>
+                            <h1 className='text-[21px] mb-2 font-medium'>Matric/Secondary School Certificate Bise Bwp </h1>
+                            <p className='mb-2'>Sheikh Zayed Public School, Rahim Yar Khan / 2012 - 2014</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
-                            <h1 className='text-[21px] mb-2 font-medium mt-7'>Bachelor in Computer Engineering</h1>
-                            <p className='mb-2'>University of California / 2014 - 2015</p>
+                            <h1 className='text-[21px] mb-2 font-medium mt-7'>FSC Pre-Engineering/Intermediate Certificate Bise Bwp </h1>
+                            <p className='mb-2'>Punjab College Rahim Yar Khan / 2014 - 2016</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
-                            <h1 className='text-[21px] mb-2 font-medium mt-7'>International Science</h1>
-                            <p className='mb-2'>Harvard University / 2013 - 2014</p>
+                            <h1 className='text-[21px] mb-2 font-medium mt-7'>Bachelors in Computer Science </h1>
+                            <p className='mb-2'>Khwaja Fareed UEIT / 2017 - 2022</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
@@ -34,25 +34,25 @@ function Resume() {
                     <div>
                         <h1 className='text-[28px] font-semibold mb-5'>My Experience</h1>
                         <div className='border-l-[2px] border-[#f5df4e] ps-4'>
-                            <h1 className='text-[21px] mb-2 font-medium'>Sr. Font End Developer</h1>
-                            <p className='mb-2'>Apple Inc / 2020 - current</p>
+                            <h1 className='text-[21px] mb-2 font-medium'>Jr. Font End Developer</h1>
+                            <p className='mb-2'>TICER/ 2024 - current</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
-                            <h1 className='text-[21px] mb-2 font-medium mt-7'>Jr. Font End Developer</h1>
-                            <p className='mb-2'>Dribbble Inc / 2018 - 2020</p>
+                            <h1 className='text-[21px] mb-2 font-medium mt-7'>Jr. Back End Developer</h1>
+                            <p className='mb-2'>TICER/ 2024 - current</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
                             <h1 className='text-[21px] mb-2 font-medium mt-7'>HTML Developer</h1>
-                            <p className='mb-2'>Adobe Inc / 2017 - 2018</p>
+                            <p className='mb-2'>TICER/ 2024 - current</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
                         </div>
                     </div>
                 </div>
                 <div className='flex justify-center my-8'>
-                    <a href="#" className='cursor-pointer  border-black  mt-5 text-[16px] px-10 py-3 border-[2px]  inline-block border-transparent hover:text-white hover:bg-[#252b33] hover:border-black hover:-translate-y-1 transition delay-150 duration-300 ease-in-out'>Download CV</a>
+                    <a href="https://novoresume.com/editor/resume/e9600fa0-eb4d-11ee-9687-418e32155d35" className='cursor-pointer  border-black  mt-5 text-[16px] px-10 py-3 border-[2px]  inline-block border-transparent hover:text-white hover:bg-[#252b33] hover:border-black hover:-translate-y-1 transition delay-150 duration-300 ease-in-out'>Download CV</a>
                 </div>
                 <h1 className='text-[28px] font-semibold mb-8 mt-14'>My Skills</h1>
                 <div className='grid grid-cols-1 lg:grid-cols-2 px-3 gap-16'>
