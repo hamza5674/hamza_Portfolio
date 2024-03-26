@@ -34,7 +34,7 @@ function About() {
                     </div>
                     <div>
                     <p className='text-[18px] font-normal text-[#6c757d]'>Email:</p>
-                        <h1 className='text-[20px] font-medium my-1'>hamza@gmail.com</h1>
+                        <h1 className='text-[20px] font-medium my-1'>chamza199@gmail.com</h1>
                     </div>
                     <div>
                     <p className='text-[18px] font-normal text-[#6c757d]'>Date of birth:</p>
