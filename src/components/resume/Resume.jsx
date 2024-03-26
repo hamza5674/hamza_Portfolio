@@ -18,7 +18,7 @@ function Resume() {
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
 
-                            <h1 className='text-[21px] mb-2 font-medium mt-7'>FSC Pre-Engineering/Intermediate Certificate Bise Bwp </h1>
+                            <h1 className='text-[21px] mb-2 font-medium mt-7'>FSC Pre-Engineering Bise Bwp </h1>
                             <p className='mb-2'>Punjab College Rahim Yar Khan / 2014 - 2016</p>
                             <p className='text-[#6c757d] mb-7'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the dummy text.</p>
                             <span className=''><hr /></span>
@@ -52,7 +52,7 @@ function Resume() {
                     </div>
                 </div>
                 <div className='flex justify-center my-8'>
-                    <a href="https://novoresume.com/editor/resume/e9600fa0-eb4d-11ee-9687-418e32155d35" className='cursor-pointer  border-black  mt-5 text-[16px] px-10 py-3 border-[2px]  inline-block border-transparent hover:text-white hover:bg-[#252b33] hover:border-black hover:-translate-y-1 transition delay-150 duration-300 ease-in-out'>Download CV</a>
+                    <a href="https://drive.google.com/file/d/1xfAMkXDsIeOKrO9YxWjvOiTUinCY5FJJ/view" className='cursor-pointer  border-black  mt-5 text-[16px] px-10 py-3 border-[2px]  inline-block border-transparent hover:text-white hover:bg-[#252b33] hover:border-black hover:-translate-y-1 transition delay-150 duration-300 ease-in-out'>Download CV</a>
                 </div>
                 <h1 className='text-[28px] font-semibold mb-8 mt-14'>My Skills</h1>
                 <div className='grid grid-cols-1 lg:grid-cols-2 px-3 gap-16'>
