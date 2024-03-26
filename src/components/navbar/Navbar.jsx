@@ -87,36 +87,52 @@ const Navbar = () => {
             })
           }
         </div>
+        <div className='hidden md:block'>
+          <div className='icons flex text-xl pt-7 pr-7 gap-6 '>
+            <div className='text-[#4d555a] hover:text-[#3b5999]'>
+              <a href="https://www.facebook.com/profile.php?id=100008192887421"><FaFacebook /></a>
 
-        <div className='icons flex text-xl pt-7 pr-7 gap-6'>
-          <div className='text-[#4d555a] hover:text-[#3b5999]'>
-            <a href="https://www.facebook.com/profile.php?id=100008192887421"><FaFacebook /></a>
-            
-          </div>
-          <div className='text-[#4d555a] hover:text-[#46c1f6]'>
-            <a href="#"> <FaTwitter /></a>
-           
-          </div>
-          <div className='text-[#4d555a] hover:text-[#e1306c]'>
-            
-            <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
+            </div>
+            <div className='text-[#4d555a] hover:text-[#46c1f6]'>
+              <a href="#"> <FaTwitter /></a>
+
+            </div>
+            <div className='text-[#4d555a] hover:text-[#e1306c]'>
+
+              <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
+            </div>
           </div>
         </div>
-        <Button type="primary" onClick={showDrawer} className='text-2xl mt-4 md:hidden text-black'>
-        <RxHamburgerMenu />
-      </Button>
+
+        <Button type="primary" onClick={showDrawer} className='text-2xl  mt-4 md:hidden text-black bg-[#f5df4e]'>
+           <RxHamburgerMenu />
+        </Button>
 
       </div>
-     
+
 
 
       <Drawer title="Navbar" onClose={onClose} open={open} >
         <div className=''>
           {
             NavItems.map((item) => {
-              return <a href={item.section} className='text-black dark:text-white p-3 px-5 hover:text-red-600  text-lg block'> {item.title} </a>
+              return <a href={item.section} className='text-black dark:text-white p-3 px-5  text-md block'> {item.title} </a>
             })
           }
+          <div className='icons flex text-md pt-3 px-5 gap-6 '>
+            <div className='text-[#4d555a] hover:text-[#3b5999]'>
+              <a href="https://www.facebook.com/profile.php?id=100008192887421"><FaFacebook /></a>
+
+            </div>
+            <div className='text-[#4d555a] hover:text-[#46c1f6]'>
+              <a href="#"> <FaTwitter /></a>
+
+            </div>
+            <div className='text-[#4d555a] hover:text-[#e1306c]'>
+
+              <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
+            </div>
+          </div>
         </div>
       </Drawer>
     </>
