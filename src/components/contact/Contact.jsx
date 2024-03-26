@@ -20,16 +20,16 @@ function Contact() {
                         <p className='text-[17px] ' >(+92)3006705674</p>
                         <div className='icons flex text-3xl mt-16 gap-6 '>
                             <div className='text-[#4d555a] hover:text-[#46c1f6]'>
-                                <a href=""><FaTwitter /></a>
+                                <a href="#"><FaTwitter /></a>
                             </div>
                             <div className='text-[#4d555a] hover:text-[#3b5999]'>
-                                <a href=""><FaFacebook /></a>
+                                <a href="https://www.facebook.com/profile.php?id=100008192887421"><FaFacebook /></a>
                             </div>
                             <div className='text-[#4d555a] hover:text-[#e1306c]'>
-                                <a href=""><FaInstagram /></a>
+                                <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
                             </div>
                             <div className='text-[#4d555a] hover:text-[#333333]'>
-                                <a href=""><FaGithub /></a>
+                                <a href="https://github.com/hamza5674"><FaGithub /></a>
                             </div>
                         </div>
                     </div>

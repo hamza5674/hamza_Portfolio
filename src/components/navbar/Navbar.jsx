@@ -90,13 +90,16 @@ const Navbar = () => {
 
         <div className='icons flex text-xl pt-7 pr-7 gap-6'>
           <div className='text-[#4d555a] hover:text-[#3b5999]'>
-            <FaFacebook />
+            <a href="https://www.facebook.com/profile.php?id=100008192887421"><FaFacebook /></a>
+            
           </div>
           <div className='text-[#4d555a] hover:text-[#46c1f6]'>
-            <FaTwitter />
+            <a href="#"> <FaTwitter /></a>
+           
           </div>
           <div className='text-[#4d555a] hover:text-[#e1306c]'>
-            <FaInstagram />
+            
+            <a href="https://www.instagram.com/mian_hamza74?igsh=MWlxanRuNW50MHV5NA%3D%3D&utm_source=qr "><FaInstagram /></a>
           </div>
         </div>
         <Button type="primary" onClick={showDrawer} className='text-2xl mt-4 md:hidden text-black'>
